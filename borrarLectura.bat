@@ -2,7 +2,7 @@
 setlocal EnableDelayedExpansion
 
 :: Define la ruta fija donde buscar los archivos, ajusta esto según sea necesario
-set "RUTA_FIJA=C:\Users\sbeldad.PCS2\Desktop\MARKEM SMARTDATE 5"
+set "RUTA_FIJA=C:\Users\Desktop"
 
 :: Verifica si la ruta fija existe
 if not exist "%RUTA_FIJA%" (

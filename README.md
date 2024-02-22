@@ -1,6 +1,7 @@
 # Instrucciones para el uso del Script de Búsqueda y Eliminación de Archivos
 
-Este script de línea de comandos está diseñado para buscar y eliminar archivos temporales (.tmp) en una ubicación específica en función de un número de 5 cifras proporcionado por el usuario. A continuación, se proporcionan instrucciones sobre cómo utilizar este script:
+Estos script de línea de comandos está diseñados para buscar y eliminar archivos temporales (.tmp) en una ubicación específica en función de un número de 5 cifras proporcionado por el usuario.Hay uno dos opciones: borrarLectura.bat , tiene una ruta fija;  borrarLectura2Rutas.bat, que tienen una lista de rutas que escoger ( que en adelante llamaremos caso B) 
+A continuación, se proporcionan instrucciones sobre cómo utilizar estos script:
 
 ## Antes de usar el script:
 
